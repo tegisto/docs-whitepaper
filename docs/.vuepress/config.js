@@ -7,18 +7,18 @@ const {
 module.exports = {
   title: "Tegisto Whitepaper",
   description: "Every company will have their own tokens in the future",
-  base: '/tegisto-whitepaper/',
+  base: '/docs-whitepaper/',
   head: [
-    ["link", { rel: "icon", sizes: "32x32", href: "/tegisto-whitepaper/images/logos/tegisto-logo-icon.svg" }],
-    // ["link", { rel: "stylesheet", type: "text/css", href: "/tegisto-whitepaper/input.css" }],
-    ["link", { rel: "stylesheet", type: "text/css", href: "/tegisto-whitepaper/reset.css" }],
+    ["link", { rel: "icon", sizes: "32x32", href: "/docs-whitepaper/images/logos/tegisto-logo-icon.svg" }],
+    // ["link", { rel: "stylesheet", type: "text/css", href: "/docs-whitepaper/input.css" }],
+    ["link", { rel: "stylesheet", type: "text/css", href: "/docs-whitepaper/reset.css" }],
     // ["script", { src: "https://cdn.tailwindcss.com" }],
     [
       "link",
       {
         rel: "stylesheet",
         type: "text/css",
-        href: "/tegisto-whitepaper/icons/colored-icons/yartu-colored-icons.css",
+        href: "/docs-whitepaper/icons/colored-icons/yartu-colored-icons.css",
       },
     ],
     [
@@ -26,7 +26,7 @@ module.exports = {
       {
         rel: "stylesheet",
         type: "text/css",
-        href: "/tegisto-whitepaper/icons/font-icons/yartu-icons.css",
+        href: "/docs-whitepaper/icons/font-icons/yartu-icons.css",
       },
     ],
   ],
