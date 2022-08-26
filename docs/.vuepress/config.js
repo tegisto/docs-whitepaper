@@ -56,11 +56,11 @@ module.exports = {
             },
             
             {
-              text: "How to Work",
+              text: "How Will It Work",
               link: "/whitepaper/tokenization/how-to-work.md",
             },
             {
-              text: "Tokens Exchange",
+              text: "Company Tokens Exchange",
               link: "/whitepaper/tokenization/tokens-exchange.md",
             },
           ],

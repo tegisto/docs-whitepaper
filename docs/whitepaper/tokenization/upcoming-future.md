@@ -1,4 +1,4 @@
-﻿## Upcoming future: Every Company Will Have Their Own Tokens
+﻿## Upcoming feature: Every Company Will Have Their Own Tokens
 
 Tokenization is the conversion of ownership rights to an asset into a digital token on a blockchain. Each token has its own value. As blockchain is playing a bigger role in our lives each day, companies will adapt to use blockchain to provide fast and transparent solutions.
 
