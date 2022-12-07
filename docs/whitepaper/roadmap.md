@@ -1,20 +1,45 @@
-﻿# Tentative Roadmap
+﻿## Roadmap
 
-### Q3 / 2022
+> ### Until Now
+> 
+> * Developed Smart Contracts
+> * Developed Platform
+> * Write Whitepaper
+> * Airdrop and User Tests
+> * Built awareness on SM
+> * Finalized Token Economy
+> * **Users: 150**
 
- - Launch First round of Tegisto IDO
- - Launch website
- - Launch social media channels
- - Develop core contracts
- - Develop token economy
+> ### 2022 Now-Dec
+> 
+> * Smart Contract Audit
+> * Finalize Private Round
+> * Finalize Public Round
 
-### Q4 / 2022
+> ### 2023 Q1
+> 
+> * Tier 1 CEX Listing
+> * Pancakeswap Listing
+> * Tokenize Ecolarium
+> * Tokenize Netetrade
+> * **Target Users: 5.000**
 
- - Finalize IDO
- - Launch public sale
- - Launch platform
- - Launch farms
- - Launch staking
- - First company tokenization
- - Launch DAO component
+> ### 2023 Q2
+> 
+> * Tokenize Yartu
+> * Launch NFT Market
+> * **Target Users: 10.000**
+
+> ### 2023 Q3
+> 
+> * Launch DAO
+> * **Target Users: 25.000**
+
+> ### 2023 Q4
+> 
+> * Launch DID
+> * **Target Users: 100.000**
+
+
+
 

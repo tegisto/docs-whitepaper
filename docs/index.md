@@ -6,5 +6,5 @@ actions:
   - text: View Whitepaper
     link: /whitepaper/introduction.html
     type: primary
-footer: V 1.0 Draft | Copyright © July 2022
+footer: V 1.0 Draft | Copyright © December 2022
 ---

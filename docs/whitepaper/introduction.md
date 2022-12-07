@@ -1,5 +1,4 @@
-﻿# Introduction
-
+﻿## Introduction
 Tegisto is a multi-chain WEB3 decentralized exchange that is run by DAO and predominantly focuses on tokenization of company products and services. Tegisto has features such as swapping, staking, farming, launchpad, NFT Marketplace and incubation program. Powered by TrueFeedBack, Tegisto will also offer innovative solutions such as DID for users and DAO controlled token allocation.
 
 Tegisto is cutting edge and unique in terms of a DeFi platform as it is possible to invest in tokens of companies and play a role in the growth of a product and services in its early stages. Companies with products or services related to blockchain technologies will be tokenized and users will have a great opportunity in investing in these deliverables pre-launch! All relevant information about the companies and its deliverables will be displayed on the platform and users will be able to sort out the technologies that they would like to play a role in and invest in the tokens of a deliverable from a real world company!
