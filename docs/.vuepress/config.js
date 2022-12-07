@@ -65,11 +65,11 @@ module.exports = {
           link: "/whitepaper/company-tokenization",
           children: [
             {
-              text: "Upcoming Feature",
+              text: "Upcoming Future",
               link: "/whitepaper/company-tokenization/upcoming-future-every-company-will-have-their-own-tokens.md",
             },
             {
-              text: "How to Work",
+              text: "How it will Work",
               link: "/whitepaper/company-tokenization/how-company-tokenization-will-work-in-tegisto.md",
             },
             {
